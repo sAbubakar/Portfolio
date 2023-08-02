@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I graduating with a Masters degree with majors in Computer Science. I like to learn new
+        I am graduating with a Masters degree with majors in Computer Science. I like to learn new
         things and work on them until i have a solid grasp on the technology.{' '}
       </p>
     </>
